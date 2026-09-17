@@ -1,0 +1,28 @@
+{
+  "id": 14,
+  "icon": "/dynamic_game_dragon_craft/icon.jpg",
+  "image": "https://res.cheerfulgames2023.com/sg/res/jpg/d5/01/3384aa99bb9d9891494b76e76d22-pxm.jpg?x-oss-process=style/hq",
+  "jump_type": "webview",
+  "jump_info": {
+    "url": "http://127.0.0.1:%d/dynamic_game_dragon_craft/index.html"
+  },
+  "publisher": "minigame",
+  "title": "Dragoncraft",
+  "category": "Arcade",
+  "play": 9603854,
+  "is_horizontal": 1,
+  "banner_info": {
+    "height": 512,
+    "url": "https://res.cheerfulgames2023.com/sg/res/jpg/84/0b/d6e235e6cf638fb3e06c118e0e18-cokb.jpg?x-oss-process=style/hq",
+    "width": 1024
+  },
+  "vertical_info": {
+    "height": 405,
+    "url": "/dynamic_game_dragon_craft/vertical.jpg",
+    "width": 300
+  },
+  "desc": "A competitive fighting game that combines the cool assembly of mechas and the PK competition in the Colosseum!",
+  "pictures": [
+    "https://res.cheerfulgames2023.com/sg/res/jpg/d5/01/3384aa99bb9d9891494b76e76d22-pxm.jpg?x-oss-process=style/hq"
+  ]
+}
